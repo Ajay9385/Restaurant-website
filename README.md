@@ -1,30 +1,33 @@
-🔥 Features
+# 🍔 Burger House — Responsive Static Website
 
-📱 Responsive Design — optimized for desktop, tablet, and mobile.
+Burger House is a responsive static website built using HTML, CSS, and JavaScript. It showcases a modern burger restaurant with sections for special offers, events, and contact information. Designed for speed and simplicity, it works seamlessly across devices, making it easy for customers to explore the menu and get in touch.
 
-🍟 Special Offers Section — highlight promotions and deals.
+---
 
-🎉 Events Section — showcase upcoming events and gatherings.
+## 🔥 Features
 
-📞 Contact Us Form — easy way for customers to reach out.
+- 📱 **Responsive Design** — optimized for desktop, tablet, and mobile  
+- 🍟 **Special Offers Section** — highlight promotions and deals  
+- 🎉 **Events Section** — showcase upcoming events and gatherings  
+- 📞 **Contact Us Form** — easy way for customers to reach out  
+- ⚡ **Fast & Lightweight** — pure HTML, CSS, and JavaScript  
 
-⚡ Fast & Lightweight — pure HTML, CSS, and  JavaScript.
+---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-🔗 Live URL : https://ajay1293.neocities.org/Restaurant%20websites/
+🔗 **Live URL:** [Burger House Demo](https://ajay1293.neocities.org/Restaurant%20websites/)
 
-🛠️ Tech Stack
+---
 
-Frontend: HTML5, CSS3, JavaScript 
+## 🛠️ Tech Stack
 
-Hosting: GitHub Pages 
+- **Frontend:** HTML5, CSS3, JavaScript  
 
-📧 Contact
+---
 
-👨‍💻 Developed by Ajay J
+## 📧 Contact
 
-📍 Nagercoil, India
-
-✉️ ajayajay92004@gmail.com
-
+👨‍💻 **Developer:** Ajay J  
+📍 **Location:** Nagercoil, India  
+✉️ **Email:** [ajayajay92004@gmail.com](mailto:ajayajay92004@gmail.com)  
