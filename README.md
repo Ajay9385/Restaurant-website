@@ -1,1 +1,26 @@
-# Restaurant-website
+🔥 Features
+
+📱 Responsive Design — optimized for desktop, tablet, and mobile.
+
+🍟 Special Offers Section — highlight promotions and deals.
+
+🎉 Events Section — showcase upcoming events and gatherings.
+
+📞 Contact Us Form — easy way for customers to reach out.
+
+⚡ Fast & Lightweight — pure HTML, CSS, and  JavaScript.
+
+🛠️ Tech Stack
+
+Frontend: HTML5, CSS3, JavaScript 
+
+Hosting: GitHub Pages 
+
+📧 Contact
+
+👨‍💻 Developed by Ajay J
+
+📍 Nagercoil, India
+
+✉️ ajayajay92004@gmail.com
+
