@@ -10,6 +10,10 @@
 
 ⚡ Fast & Lightweight — pure HTML, CSS, and  JavaScript.
 
+🌐 Live Demo
+
+🔗 Live URL : https://ajay1293.neocities.org/Restaurant%20websites/
+
 🛠️ Tech Stack
 
 Frontend: HTML5, CSS3, JavaScript 
